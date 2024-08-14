@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 :root {
-  
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,3 +17,4 @@ body {
 @layer utilities {
  
 }
+
